@@ -5,7 +5,7 @@
 
 jfishjfgpsjg
 
-## **Como funciona o comando**
+## **Comandos**
 
 ## ls-s
 `ls-s` - ihfuoehfoisedoift

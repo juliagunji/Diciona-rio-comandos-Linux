@@ -3,7 +3,7 @@
 
 ## **Introdução**
 
- > jfishjfgpsjg `#0969DA`
+ > jfishjfgpsjg #000000
 
 ## **Comandos**
 

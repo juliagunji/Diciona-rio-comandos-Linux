@@ -3,10 +3,12 @@
 
 ## **Introdução**
 
- > jfishjfgpsjg `#000000`
+ > jfishjfgpsjg 
 
 ## **Comandos**
 
 ### ls-s
 `ls-s` - ihfuoehfoisedoift
 
+## **Conclusão**
+> idsfhjisjdfes

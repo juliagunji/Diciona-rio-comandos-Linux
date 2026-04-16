@@ -5,4 +5,4 @@
 `ls-s`
 
 Bash
-`ls-s`
+ls-s

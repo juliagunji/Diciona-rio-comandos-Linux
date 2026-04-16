@@ -1,1 +1,1 @@
-# Dicion-rio-comandos-Linux
+# Dicionário-Comandos-Linux

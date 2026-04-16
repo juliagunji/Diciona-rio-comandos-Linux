@@ -1,12 +1,12 @@
-# <Dicionário Comandos Linux>
+# Dicionário Comandos Linux
 
 
-## **Introdução**
+### **Introdução**
 
 jfishjfgpsjg
 
-## **Comandos**
+### **Comandos**
 
-## ls-s
+#### ls-s
 `ls-s` - ihfuoehfoisedoift
 

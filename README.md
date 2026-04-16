@@ -1,6 +1,5 @@
 # Dicionário Comandos Linux
 
-## subtitulo
 
 **Introdução**
 

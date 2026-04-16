@@ -1,5 +1,5 @@
 # Dicionário-Comandos-Linux
 
-##subtítulo
+## Subtítulo
 **Como funciona o comando**
 `ls-s`

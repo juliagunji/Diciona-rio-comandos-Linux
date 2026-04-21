@@ -23,7 +23,7 @@ Neste trabalho serão apresentados comandos essenciais do Linux em espécie de d
 `rmdir` - Este comando removerá um diretório do sistema, sendo necessário o diretório estar vazio e a permissão de gravação para que o usuário possa removê-lo. 
 > Exemplo: rdmir [opções] 
 
-## Comandos para manipulação de arquivos  
+### Comandos para manipulação de arquivos  
 `cat` - Este comando mostrará o conteúdo de um arquivo binário ou texto. 
 > Exemplo: cat texto.txt 
 

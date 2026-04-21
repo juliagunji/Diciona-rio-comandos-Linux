@@ -31,7 +31,10 @@ Neste trabalho serão apresentados comandos essenciais do Linux em espécie de d
 > Exemplo: tac file-all.txt
 
 `rm` - Este comando apagará arquivos.
-> Exemplo: rm teste.txt (Apagará o arquivo 'text.txt' no diretório atual) 
+> Exemplo: rm teste.txt (Apagará o arquivo 'text.txt' no diretório atual)
+
+`cp` - Este comando copiará arquivos. 
+> Exemplo: cp teste.txt teste1.txt (Copiará o arquivo 'teste.txt' para 'teste1.txt') 
 
 ## **Conclusão**
 > idsfhjisjdfes

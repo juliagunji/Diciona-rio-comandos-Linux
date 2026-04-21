@@ -3,7 +3,7 @@
 
 ## **Introdução**
 
- > Neste trabalho serão apresentados comandos essenciais do Linux em espécie de dicionário. Os comandos serão apresentados com sua principal função e exemplo de como é utilizado pelos usuários do sistema operacional Linux. Desta forma, o objetivo é apresentar de forma clara quais comandos estão presentes no Linux e como são utilizados para que o usuário possa ter clareza de seu funcionamento. 
+Neste trabalho serão apresentados comandos essenciais do Linux em espécie de dicionário. Os comandos serão apresentados com sua principal função e exemplo de como é utilizado pelos usuários do sistema operacional Linux. Desta forma, o objetivo é apresentar de forma clara quais comandos estão presentes no Linux e como são utilizados para que o usuário possa ter clareza de seu funcionamento. 
 
 ## **Comandos Linux**
 

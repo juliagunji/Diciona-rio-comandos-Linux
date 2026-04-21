@@ -14,5 +14,8 @@
 `cd` - Este comando permite entrar em diretórios e modificá-los, sendo necessária permissão de execução para entrar no diretório.
 > Exemplo: cd/home/username/documents
 
+`pwd` - Este comando mostrará o nome e o caminho do diretório atual, também podendo ser utilizado para verficiar em qual diretório está. 
+> Exemplo: pwd (Exibirá o diretório atual)
+
 ## **Conclusão**
 > idsfhjisjdfes

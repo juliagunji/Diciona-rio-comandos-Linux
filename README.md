@@ -8,7 +8,7 @@ Neste trabalho serão apresentados comandos essenciais do Linux em espécie de d
 ## **Comandos Linux**
 
 ### Comandos de manipulação de diretório
-`ls-s` - Este comando listará os arquivos do diretório.
+`ls` - Este comando listará os arquivos do diretório.
 > Exemplo: ls/home/username/documents (Para visualizar outros repositórios é preciso adicionar o caminho do diretório após "ls")
 
 `cd` - Este comando permite entrar em diretórios e modificá-los, sendo necessária permissão de execução para entrar no diretório.
@@ -22,6 +22,16 @@ Neste trabalho serão apresentados comandos essenciais do Linux em espécie de d
 
 `rmdir` - Este comando removerá um diretório do sistema, sendo necessário o diretório estar vazio e a permissão de gravação para que o usuário possa removê-lo. 
 > Exemplo: rdmir [opções] 
+
+## Comandos para manipulação de arquivos  
+`cat` - Este comando mostrará o conteúdo de um arquivo binário ou texto. 
+> Exemplo: cat texto.txt 
+
+`tac` - Este comando mostrará o conteúdo de um arquivo binário ou texto, em ordem inversa. 
+> Exemplo: tac file-all.txt
+
+`rm` - Este comando apagará arquivos.
+> Exemplo: rm teste.txt (Apagará o arquivo 'text.txt' no diretório atual) 
 
 ## **Conclusão**
 > idsfhjisjdfes

@@ -3,9 +3,9 @@
 
 ## **Introdução**
 
- > jfishjfgpsjg 
+ > Neste trabalho serão apresentados comandos essenciais do Linux em espécie de dicionário. Os comandos serão apresentados com sua principal função e exemplo de como é utilizado pelos usuários do sistema operacional Linux. Desta forma, o objetivo é apresentar de forma clara quais comandos estão presentes no Linux e como são utilizados para que o usuário possa ter clareza de seu funcionamento. 
 
-## **Comandos**
+## **Comandos Linux**
 
 ### Comandos de manipulação de diretório
 `ls-s` - Este comando listará os arquivos do diretório.
@@ -16,6 +16,8 @@
 
 `pwd` - Este comando mostrará o nome e o caminho do diretório atual, também podendo ser utilizado para verficiar em qual diretório está. 
 > Exemplo: pwd (Exibirá o diretório atual)
+
+`mkdir` - Este comando criará um diretório no sistema. 
 
 ## **Conclusão**
 > idsfhjisjdfes

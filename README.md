@@ -8,16 +8,16 @@ Neste trabalho serão apresentados comandos essenciais do Linux em espécie de d
 ## **Comandos Linux**
 
 ### Comandos de manipulação de diretório
-`ls-s` - Este comando listará os arquivos do diretório.
+1- `ls-s` - Este comando listará os arquivos do diretório.
 > Exemplo: ls/home/username/documents (Para visualizar outros repositórios é preciso adicionar o caminho do diretório após "ls")
 
-`cd` - Este comando permite entrar em diretórios e modificá-los, sendo necessária permissão de execução para entrar no diretório.
+2- `cd` - Este comando permite entrar em diretórios e modificá-los, sendo necessária permissão de execução para entrar no diretório.
 > Exemplo: cd/home/username/documents
 
-`pwd` - Este comando mostrará o nome e o caminho do diretório atual, também podendo ser utilizado para verficiar em qual diretório está. 
+3- `pwd` - Este comando mostrará o nome e o caminho do diretório atual, também podendo ser utilizado para verficiar em qual diretório está. 
 > Exemplo: pwd (Exibirá o diretório atual)
 
-`mkdir` - Este comando criará um ou mais diretórios no sistema.
+4- `mkdir` - Este comando criará um ou mais diretórios no sistema.
 > Exemplo: mkdir novo_diretorio 
 
 ## **Conclusão**

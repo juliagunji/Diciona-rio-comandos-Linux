@@ -7,7 +7,6 @@ Neste trabalho serão apresentados comandos essenciais do Linux em espécie de d
 
 ## **Comandos Linux**
 
-### Comandos de manipulação de diretório
 `ls` - Este comando listará os arquivos do diretório.
 > Exemplo: ls/home/username/documents (Para visualizar outros repositórios é preciso adicionar o caminho do diretório após "ls")
 
@@ -23,7 +22,6 @@ Neste trabalho serão apresentados comandos essenciais do Linux em espécie de d
 `rmdir` - Este comando removerá um diretório do sistema, sendo necessário o diretório estar vazio e a permissão de gravação para que o usuário possa removê-lo. 
 > Exemplo: rdmir [opções] 
 
-### Comandos para manipulação de arquivos  
 `cat` - Este comando mostrará o conteúdo de um arquivo binário ou texto. 
 > Exemplo: cat texto.txt 
 
@@ -34,7 +32,12 @@ Neste trabalho serão apresentados comandos essenciais do Linux em espécie de d
 > Exemplo: rm teste.txt (Apagará o arquivo 'text.txt' no diretório atual)
 
 `cp` - Este comando copiará arquivos. 
-> Exemplo: cp teste.txt teste1.txt (Copiará o arquivo 'teste.txt' para 'teste1.txt') 
+> Exemplo: cp teste.txt teste1.txt (Copiará o arquivo 'teste.txt' para 'teste1.txt')
+
+`mv` - Este comando move ou renomeia arquivos e diretórios. Sendo semelhante ao comando 'cp', no entanto o arquivo de origem será apafado após o fim da cópia.  
+> Exemplo: mv teste.txt teste1.txt (Muda o nome de 'teste.txt' para 'teste1.txt')
+
+``
 
 ## **Conclusão**
 > idsfhjisjdfes

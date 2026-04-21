@@ -7,8 +7,8 @@
 
 ## **Comandos**
 
-### ls-s
-`ls-s` - ihfuoehfoisedoift
+### Comandos de manipulação de diretório
+`ls-s` - Este comando listará os arquivos do diretório 
 
 ## **Conclusão**
 > idsfhjisjdfes

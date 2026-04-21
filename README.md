@@ -17,7 +17,8 @@ Neste trabalho serão apresentados comandos essenciais do Linux em espécie de d
 `pwd` - Este comando mostrará o nome e o caminho do diretório atual, também podendo ser utilizado para verficiar em qual diretório está. 
 > Exemplo: pwd (Exibirá o diretório atual)
 
-`mkdir` - Este comando criará um diretório no sistema. 
+`mkdir` - Este comando criará um ou mais diretórios no sistema.
+> Exemplo: mkdir novo_diretorio 
 
 ## **Conclusão**
 > idsfhjisjdfes

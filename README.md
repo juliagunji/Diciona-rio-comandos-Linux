@@ -53,7 +53,54 @@ Neste trabalho serão apresentados 30 comandos essenciais do Linux em espécie d
 > Exemplo: whoami (O comando é executado sozinho) 
 
 `talk` - Este comando iniciará uma conversa em tempo real com outro usuário de sistema em uma rede local ou na Internet.
-> Exemplo: talk [usuário][tty] ('Usuário' é o nome de login do usuário que deseja iniciar uma conversa e 'tty' é o nome de terminal onde o usuário está conectado para iniciar uma conexão local) 
+> Exemplo: talk [usuário][tty] ('Usuário' é o nome de login do usuário que deseja iniciar uma conversa e 'tty' é o nome de terminal onde o usuário está conectado para iniciar uma conexão local)
+
+### Outros comandos 
+
+`clear` - Este comando limpa a tela e posiciona o cursor no canto superior esquerdo.
+> Exemplo: clear (O comando é executado sozinho, assim que apertado "enter" toda a saída anterior desaparece)
+
+`ln` - Este comando cria links para arquivos e diretórios no sistema.
+> Exemplo: ln -s /deve/ttyS1 /dev/modem (Cria um link para o arquivo)
+
+`find` - Este comando procura um arquivo ou um diretório no disco através de sua data de modificação, tamanho, entre outros fatores.
+> Exemplo: find/home/teste -name "documento.txt" (O comando procura dentro da pasta /home/teste um arquivo chamado documento.txt)
+
+`dmesg` - Este comando mostra as mensagens de inicialização do kernel.
+> Exemplo: dmesg (O comando exibe apenas mensagens relacionadas as dispositivos USB)
+
+`wc` - Este comando conta o número de palavras, bytes e linhas em um arquivo ou entrada padrão.
+> Exemplo: wc -w /etc/passwd (Mostra a quantidade de palavras do arquivo /etc/passwd.
+
+`diff` - Este comando compara dois arquivos e mostra a diferença entre eles.
+> Exemplo: diff texto.txt texto1.txt (Com o arquivo texto.txt com texto1.txt e exibe suas diferenças na tela)
+
+`shutdown` - Este comando deliga/reinicia o computador imediatamente ou após determinado tempo de maneira segura.
+> Exemplo: shutdown -h now (Desliga o computador imediatamente)
+
+`chattr` - Este comando modifica atributos de arquivos e diretórios.
+> Exemplo: chattr = teste.txt (Retira todos os atributos)
+
+`touch` - Este comando modifica a data e a hora que um arquivo foi criado.
+> Exemplo: touch -t 10011230 teste (Altera a data e a hora do arquivo para 01/10 e 12:30)
+
+`free` - Este comando mostra detalhes sobre a utilização da memória RAM do sistema.
+> Exemplo: free (Mostra um resumo da memória em kilobytes)
+
+`uptime` - Este comando mostra o tempo de execução do sistema desde que o computador foi ligado.
+> Exemplo: uptime (Mostra automaticamente informações do computador)
+
+`head` - Este comando mostra as linhas iniciais de um arquivo de texto.
+> Exemplo: head n- 5 documento.txt (Mostra as 5 primeiras linhas do arquvido documento.txt)
+
+`echo` - Este comando exibe mensagens.
+> Exemplo: echo "olá, mundo" (A saída será "olá, mundo")
+
+`reboot` - Este comando reinicia o computador.
+> Exemplo: reboot (ocorre de maneira automática)
+
+`hostname` - Este comando mostra ou muda o nome de seu computador na rede.
+> Exemplo: hostname (teste-pc o nome da máquina configurado no sistema)
 
 ## **Conclusão**
-> idsfhjisjdfes
+Portante, é possível concluir que os comandos do Linux fornecem uma grande flexibilidade para o usuário, em que permitem desde a navegação entre diretórios até o monitoramento do sistema. O estudo dos mesmos é fundamental pois são a base para controlar um sistema de maneira eficiente, principalmente em servidores que não possuem interface gráfica; conhecer os comandos é uma habilidade prática que contribui para para organização e controle em ambientes de trabalho e estudo. 
